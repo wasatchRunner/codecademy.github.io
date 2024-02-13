@@ -1,0 +1,48 @@
+body{
+    font-family: Helvetica;
+}
+
+header{
+    background-image: url(Resources\Images\pattern.jpeg);
+    text-align: center;
+}
+
+header h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h6{
+    font-size: 12px;
+    font-weight: 1;
+}
+
+.title h1{
+    font-size:  32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+
+.frames{
+    background-color: lightcoral;
+}
+
+.paint{
+    background-color: skyblue;
+}
+
+.blue{
+    display: inline;
+    color: blue;
+    font-weight: bold;
+}
